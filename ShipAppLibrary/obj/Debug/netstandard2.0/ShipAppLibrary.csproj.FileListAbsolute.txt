@@ -1,0 +1,9 @@
+C:\Users\Dinesh.Nallagachu\source\repos\ShipAppLibrary\ShipAppLibrary\bin\Debug\netstandard2.0\ShipAppLibrary.deps.json
+C:\Users\Dinesh.Nallagachu\source\repos\ShipAppLibrary\ShipAppLibrary\bin\Debug\netstandard2.0\ShipAppLibrary.dll
+C:\Users\Dinesh.Nallagachu\source\repos\ShipAppLibrary\ShipAppLibrary\bin\Debug\netstandard2.0\ShipAppLibrary.pdb
+C:\Users\Dinesh.Nallagachu\source\repos\ShipAppLibrary\ShipAppLibrary\obj\Debug\netstandard2.0\ShipAppLibrary.csprojAssemblyReference.cache
+C:\Users\Dinesh.Nallagachu\source\repos\ShipAppLibrary\ShipAppLibrary\obj\Debug\netstandard2.0\ShipAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh.Nallagachu\source\repos\ShipAppLibrary\ShipAppLibrary\obj\Debug\netstandard2.0\ShipAppLibrary.AssemblyInfoInputs.cache
+C:\Users\Dinesh.Nallagachu\source\repos\ShipAppLibrary\ShipAppLibrary\obj\Debug\netstandard2.0\ShipAppLibrary.AssemblyInfo.cs
+C:\Users\Dinesh.Nallagachu\source\repos\ShipAppLibrary\ShipAppLibrary\obj\Debug\netstandard2.0\ShipAppLibrary.dll
+C:\Users\Dinesh.Nallagachu\source\repos\ShipAppLibrary\ShipAppLibrary\obj\Debug\netstandard2.0\ShipAppLibrary.pdb
